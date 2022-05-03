@@ -1,5 +1,5 @@
 # Publick Key / Private Key Demo
-A web-based demonstration of public / private key pair concepts.
+Uma demonstração baseada na web de conceitos de pares de chaves públicas/privadas.
 
 This is a very basic visual introduction to the concepts behind a public / private key pair, signing and their use in a blockchain context.
 
